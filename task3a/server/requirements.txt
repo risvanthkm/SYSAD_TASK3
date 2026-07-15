@@ -3,3 +3,4 @@ bcrypt
 yt-dlp
 mutagen
 PyJWT 
+python-dotenv
