@@ -25,7 +25,7 @@ This repository is divided two sections into `task3a` and `task3b`
   - Configured a dedicated Docker bridge network to enable secure inter-container communication while isolating internal services from the host network.
 
 - **Containerized Multi-Service Architecture**
-  - Orchestrated frontend, backend, and PostgreSQL services using Docker Compose with isolated networking, and inter-container communication.
+  - Orchestrated backend and PostgreSQL services using Docker Compose with isolated networking, and inter-container communication.
     
 - **Network Security**
 
